@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onyilefelix1" alt="onyilefelix1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/felixonyile?t=-1jg3iqauqeg06rh9z4qvw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/felixonyile?t=-1jg3iqauqeg06rh9z4qvw&s=09?logo=twitter&style=for-the-badge" alt="https://twitter.com/felixonyile" /></a> </p>
+<p align="left"> <a href="https://twitter.com/FelixOnyile" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/FelixOnyilelogo=twitter&style=for-the-badge" alt="https://twitter.com/FelixOnyile" /></a> </p>
 
 - 🌱 I’m currently learning **solidity and improving on my PHP, and also skills on SQL**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/felixonyile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/felixonyile" height="30" width="40" /></a>
+<a href="https://twitter.com/FelixOnyile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/felixonyile" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/felixonyile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felixonyile" height="30" width="40" /></a>
 </p>
 
