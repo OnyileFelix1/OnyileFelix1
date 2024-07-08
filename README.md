@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/FelixOnyile" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/FelixOnyilelogo=twitter&style=for-the-badge" alt="https://twitter.com/FelixOnyile" /></a> </p>
 
-- 🌱 I’m currently learning **solidity and improving on my PHP, and also skills o SQL**
+- 🌱 I’m currently learning **solidity and improving on my PHP, and also skills on SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OnyileFelix1](https://github.com/OnyileFelix1)
 
