@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **basseyonyile20044@gmail.com**
 
-- 📄 Know about my experiences [https://sirwhite.disha.page/](https://sirwhite.disha.page/)
+- 📄 Know about my experiences [https://sirwhite.disha.page/](https://linktr.ee/SirWhite01)
 
 - ⚡ Fun fact **I don't know how I found myself here, might not be around for too long**
 
